@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General Support
+    url: mailto:info@clinichat.ai
+    about: For general questions and support
+  - name: Security Issues
+    url: mailto:aditya@clinichat.ai
+    about: For reporting security vulnerabilities (do not open public issues)
